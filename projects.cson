@@ -1,0 +1,36 @@
+sample:
+  title: "sample"
+  paths: [
+    "/home/psylone/development/learning/ruby/sample"
+    "/home/psylone/development/learning/ruby/rack/etag-app"
+  ]
+golang:
+  title: "golang"
+  paths: [
+    "/home/psylone/development/learning/go"
+  ]
+corruption:
+  title: "corruption"
+  paths: [
+    "/home/psylone/development/projects/corruption"
+  ]
+jscore:
+  title: "jscore"
+  paths: [
+    "/home/psylone/development/projects/jscore"
+  ]
+"instamotor-api":
+  title: "instamotor-api"
+  paths: [
+    "/home/psylone/development/projects/instamotor-api"
+  ]
+human_os:
+  title: "human_os"
+  paths: [
+    "/home/psylone/development/projects/human_os"
+  ]
+cml:
+  title: "cml"
+  paths: [
+    "/home/psylone/development/projects/cml"
+  ]

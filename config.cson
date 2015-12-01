@@ -1,0 +1,55 @@
+"*":
+  "exception-reporting":
+    userId: "c3052cc0-f027-e711-315f-7064b08d8981"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    projectHome: "/home/psylone/development/projects/atom"
+    themes: [
+      "one-dark-ui"
+      "afterglow-plus"
+    ]
+    autoHideMenuBar: true
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "tree-view":
+    showOnRightSide: true
+  autosave:
+    enabled: true
+  "ctrl-dir-scroll": {}
+  "git-plus":
+    openInPane: false
+  "git-blame": {}
+  whitespace:
+    ensureSingleTrailingNewline: false
+  tabs:
+    usePreviewTabs: true
+  "status-bar": {}
+  "one-dark-ui": {}
+  "file-icons": {}
+  "find-and-replace": {}
+  "open-recent": {}
+  "highlight-selected": {}
+  "project-manager":
+    sortBy: "title"
+  "go-plus":
+    formatOnSave: false
+    lintOnSave: false
+    syntaxCheckOnSave: false
+    vetOnSave: false
+    formatTool: "gofmt"
+    goPath: "/usr/local/go"
+    showPanel: false
+    getMissingTools: false
+  rspec:
+    command: "rspec"
+  "fuzzy-finder":
+    useAlternateScoring: true
+  "atom-beautify":
+    _analyticsUserId: "6c4a10b1-9ea7-4fa3-89c9-885dfe31628d"
